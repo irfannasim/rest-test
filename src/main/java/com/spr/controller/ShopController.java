@@ -21,6 +21,9 @@ import com.spr.model.Shop;
 import com.spr.service.ShopService;
 import com.spr.validation.ShopValidator;
 
+/***
+ * @author irfan
+ */
 @Controller
 @RequestMapping(value="/shop")
 public class ShopController {
